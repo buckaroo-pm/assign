@@ -94,7 +94,7 @@ revision = "bb8ffe4d24071f3942a18b274cc7f3ee0dc91eb2"
 
 [lock."github.com/buckaroo-pm/boost-functional"]
 versions = [ "branch=master" ]
-revision = "28b42e6161041316b359b53682f075522cd48d6f"
+revision = "a241f4f12c8b0e0f1d5d803eb5404c5d67ea254b"
 
 [lock."github.com/buckaroo-pm/boost-integer"]
 versions = [ "branch=master" ]
@@ -138,7 +138,7 @@ revision = "3cb7f143fead7a6a21f99d58bc2154bb6f85a031"
 
 [lock."github.com/buckaroo-pm/boost-smart_ptr"]
 versions = [ "branch=master" ]
-revision = "613f7a038214f92d7235de669bedc3710657f353"
+revision = "7a147d3e6bead2fba47b60365fe1ae0c308768d5"
 
 [lock."github.com/buckaroo-pm/boost-static_assert"]
 versions = [ "branch=master" ]

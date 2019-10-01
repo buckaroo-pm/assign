@@ -1,0 +1,41 @@
+targets = [ "//:assign" ]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-config"
+version = "1.45.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-detail"
+version = "1.45.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-mpl"
+version = "1.45.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-preprocessor"
+version = "1.45.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-range"
+version = "1.45.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-type_traits"
+version = "1.45.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-static_assert"
+version = "1.45.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-array"
+version = "1.45.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-tuple"
+version = "1.45.0"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-ptr_container"
+version = "1.45.0"
